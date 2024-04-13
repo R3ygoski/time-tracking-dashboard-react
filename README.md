@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Github](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/time-tracking-dashboard-made-with-react-and-scss-fdzZ7Dvieh)
+- Live Site URL: [Github](https://r3ygoski.github.io/time-tracking-dashboard-react/)
 
 ## My process
 
