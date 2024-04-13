@@ -1,0 +1,23 @@
+@use './var' as v;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    font-family: 'Rubik', sans-serif;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background: v.$very-dark-blue;
+}
+
+@media (min-width: 1440px) {
+    #root {
+        height: 100vh;
+    }
+}
